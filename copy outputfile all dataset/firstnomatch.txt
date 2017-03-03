@@ -1,0 +1,1213 @@
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.timeline", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGNumberList.prototype.getItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "TreeWalker.prototype.nextSibling", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.isRenderbuffer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLTextAreaElement.prototype.checkValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://w3c.github.io/FileAPI/", "feature": "FileReader.prototype.abort", "standard:": "File API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onselect", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "SubtleCrypto.prototype.verify", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.getItems", "standard:": "HTML"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "Selection.prototype.collapse", "standard:": "Selection API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPointList.prototype.replaceItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://w3c.github.io/resource-timing/", "feature": "Performance.prototype.setResourceTimingBufferSize", "standard:": "Resource Timing"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.innerWidth", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "TextTrack.prototype.addCue", "standard:": "HTML 5"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform4fv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.cloneContents", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Element.prototype.getAttributeNS", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/page-visibility/", "feature": "document.mozVisibilityState", "standard:": "Page Visibility (Second Edition)"}
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "window.ondevicemotion", "standard:": "The Screen Orientation API"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrix.prototype.scaleNonUniformSelf", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.intersectsNode", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.skewX", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTableSectionElement.prototype.insertRow", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.restore", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "DataChannel.prototype.close", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "document.scripts", "standard:": "DOM"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.activeTexture", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.compareBoundaryPoints", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://w3c.github.io/mediacapture-fromelement/", "feature": "HTMLCanvasElement.prototype.captureStream", "standard:": "Media Capture from DOM Elements"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.addStream", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.rect", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Events/", "feature": "EventTarget.prototype.dispatchEvent", "standard:": "Document Object Model (DOM) Level 2 Events Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBIndex.prototype.openCursor", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLMediaElement.prototype.mozCaptureStreamUntilEnded", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.arcTo", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLFieldSetElement.prototype.setCustomValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://w3c.github.io/resource-timing/", "feature": "performance.onresourcetimingbufferfull", "standard:": "Resource Timing"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.log", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGAnimationElement.prototype.getCurrentTime", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-XPath/", "feature": "XPathEvaluator.prototype.evaluate", "standard:": "Document Object Model (DOM) Level 3 XPath Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSStyleDeclaration.prototype.getPropertyValue", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTableElement.prototype.deleteTHead", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://w3c.github.io/proximity/", "feature": "window.onuserproximity", "standard:": "Proximity Events"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.blendEquation", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.domLoading", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.selectNodeContents", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.ondragleave", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "MediaList.prototype.appendMedium", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "MediaList.prototype.deleteMedium", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.unloadEventEnd", "standard:": "Navigation Timing"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onmouseup", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGAnimationElement.prototype.endElementAt", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.setLineDash", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onshow", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onwheel", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ondragend", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/comms.html#channel-messaging", "feature": "MessagePort.prototype.close", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/encrypted-media/", "feature": "MediaKeySession.prototype.generateRequest", "standard:": "Encrypted Media Extensions"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Element.prototype.getAttribute", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/page-visibility/", "feature": "document.mozHidden", "standard:": "Page Visibility (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBFileHandle.prototype.flush", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegCurvetoCubicSmoothRel", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.createSVGTransformFromMatrix", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://w3c.github.io/FileAPI/", "feature": "FileList.prototype.item", "standard:": "File API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onwheel", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegLinetoAbs", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSStyleDeclaration.prototype.removeProperty", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ondurationchange", "standard:": "HTML"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.groupEnd", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLMediaElement.prototype.play", "standard:": "HTML 5"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.blendEquationSeparate", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBFileHandle.prototype.readAsArrayBuffer", "standard:": "Indexed Database API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.moveTo", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "navigator.vendorSub", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegClosePath", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Document.prototype.createAttributeNS", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onemptied", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.deleteContents", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBObjectStore.prototype.put", "standard:": "Indexed Database API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.oncontextmenu", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegLinetoHorizontalAbs", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.currentScript", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/selectors-api", "feature": "Element.prototype.querySelector", "standard:": "Selectors API Level 1"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.getBoundingClientRect", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.vertexAttrib1f", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/mediastream-recording/", "feature": "MediaStream.prototype.getTracks", "standard:": "MediaStream Recording"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getError", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.addTrack", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.oncanplaythrough", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "NamedNodeMap.prototype.setNamedItemNS", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onkeypress", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html51/", "feature": "DragEvent.prototype.initDragEvent", "standard:": "HTML 5.1"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "navigator.appName", "standard:": "HTML"}
+{"url_standard:": "https://webaudio.github.io/web-audio-api", "feature": "PannerNode.prototype.setVelocity", "standard:": "Web Audio API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "TreeWalker.prototype.firstChild", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.deleteBuffer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/service-workers/", "feature": "Cache.prototype.match", "standard:": "Service Workers"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGMatrix.prototype.scaleNonUniform", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "window.indexedDB", "standard:": "Indexed Database API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.console", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-HTML/", "feature": "document.getElementsByName", "standard:": "Document Object Model (DOM) Level 2 HTML Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBKeyRange.upperBound", "standard:": "Indexed Database API"}
+{"url_standard:": "https://url.spec.whatwg.org/", "feature": "URLSearchParams.prototype.append", "standard:": "URL"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLOutputElement.prototype.checkValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTableElement.prototype.createTHead", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://notifications.spec.whatwg.org/", "feature": "Notification.requestPermission", "standard:": "Web Notifications"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getFramebufferAttachmentParameter", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.arc", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html51/", "feature": "External.prototype.AddSearchProvider", "standard:": "HTML 5.1"}
+{"url_standard:": "https://w3c.github.io/editing/execCommand.html", "feature": "HTMLDocument.prototype.execCommand", "standard:": "execCommand"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.createOffer", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/html51/", "feature": "navigator.language", "standard:": "HTML 5.1"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onkeyup", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBKeyRange.bound", "standard:": "Indexed Database API"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrix.prototype.invertSelf", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.getPointAtLength", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.table", "standard:": "Console API"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "document.childElementCount", "standard:": "DOM"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrix.prototype.multiplySelf", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.createRadialGradient", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.getStats", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.disable", "standard:": "WebGL Specification"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.markTimeline", "standard:": "Console API"}
+{"url_standard:": "https://xhr.spec.whatwg.org/", "feature": "FormData.prototype.set", "standard:": "XMLHttpRequest"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBCursor.prototype.delete", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getContextAttributes", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Document.prototype.createNodeIterator", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "Selection.prototype.removeRange", "standard:": "Selection API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGNumberList.prototype.appendItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onfocus", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTableElement.prototype.deleteTFoot", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onkeydown", "standard:": "HTML"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.translate", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/media-source/", "feature": "MediaSource.isTypeSupported", "standard:": "Media Source Extensions"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "Selection.prototype.modify", "standard:": "Selection API"}
+{"url_standard:": "https://drafts.csswg.org/css-font-loading/", "feature": "FontFaceSet.prototype.entries", "standard:": "CSS Font Loading Module Level 3"}
+{"url_standard:": "https://w3c.github.io/DOM-Parsing/", "feature": "XMLSerializer.prototype.serializeToString", "standard:": "DOM Parsing and Serialization"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Element.prototype.removeAttributeNode", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "navigator.appCodeName", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "window.ondeviceorientation", "standard:": "The Screen Orientation API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-XPath/", "feature": "XPathResult.prototype.snapshotItem", "standard:": "Document Object Model (DOM) Level 3 XPath Specification"}
+{"url_standard:": "https://www.w3.org/TR/geolocation-API/", "feature": "navigator.geolocation.watchPosition", "standard:": "Geolocation API Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onratechange", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/uievents/", "feature": "KeyboardEvent.prototype.initKeyEvent", "standard:": "UI Events Specification"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.navigation", "standard:": "Navigation Timing"}
+{"url_standard:": "https://w3c.github.io/editing/execCommand.html", "feature": "HTMLDocument.prototype.queryCommandIndeterm", "standard:": "execCommand"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.detachShader", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Document.prototype.createElementNS", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onended", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.getStreamById", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSValueList.prototype.item", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.images", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/FileAPI/", "feature": "FileReader.prototype.readAsDataURL", "standard:": "File API"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLFormElement.prototype.reset", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.createShader", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onloadeddata", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.blendFunc", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/geolocation-API/", "feature": "navigator.geolocation.getCurrentPosition", "standard:": "Geolocation API Specification"}
+{"url_standard:": "https://w3c.github.io/editing/execCommand.html", "feature": "document.queryCommandState", "standard:": "execCommand"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "TreeWalker.prototype.previousSibling", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.location", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Element.prototype.removeAttribute", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.requestStart", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSStyleDeclaration.prototype.getPropertyCSSValue", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "DOMImplementation.prototype.createDocument", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.blendFuncSeparate", "standard:": "WebGL Specification"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "document.contentType", "standard:": "DOM"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.deleteTexture", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "XMLDocument.prototype.load", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "DataChannel.prototype.send", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/vibration/", "feature": "Navigator.prototype.vibrate", "standard:": "Vibration API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-HTML/", "feature": "document.write", "standard:": "Document Object Model (DOM) Level 2 HTML Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.checkFramebufferStatus", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onkeypress", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "Crypto.prototype.getRandomValues", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLMediaElement.prototype.addTextTrack", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLMediaElement.prototype.pause", "standard:": "HTML 5"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.blendColor", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onloadstart", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGNumberList.prototype.insertItemBefore", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasPattern.prototype.setTransform", "standard:": "HTML"}
+{"url_standard:": "https://notifications.spec.whatwg.org/", "feature": "Notification.get", "standard:": "Web Notifications"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBTransaction.prototype.objectStore", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.useProgram", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBObjectStore.prototype.openCursor", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBObjectStore.prototype.get", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getExtension", "standard:": "WebGL Specification"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.moveBy", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.debug", "standard:": "Console API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "Path2D.prototype.rect", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-XPath/", "feature": "Document.prototype.evaluate", "standard:": "Document Object Model (DOM) Level 3 XPath Specification"}
+{"url_standard:": "https://www.w3.org/TR/media-source/", "feature": "MediaSource.prototype.removeSourceBuffer", "standard:": "Media Source Extensions"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.closed", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.resizeTo", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "NamedNodeMap.prototype.removeNamedItem", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.activeElement", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.shaderSource", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Document.prototype.createCDATASection", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.createImageBitmap", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webappapis.html#plugins-2", "feature": "PluginArray.prototype.namedItem", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSymbolElement.prototype.hasExtension", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLObjectElement.prototype.setCustomValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getShaderParameter", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathSegList.prototype.getItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onseeked", "standard:": "HTML"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.group", "standard:": "Console API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webappapis.html#plugins-2", "feature": "navigator.mimeTypes", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.getLineDash", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "navigator.userAgent", "standard:": "HTML"}
+{"url_standard:": "https://fullscreen.spec.whatwg.org/", "feature": "Element.prototype.mozRequestFullScreen", "standard:": "Fullscreen API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webappapis.html#plugins-2", "feature": "Plugin.prototype.namedItem", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.body", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGLengthList.prototype.removeItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Events/", "feature": "Event.prototype.initEvent", "standard:": "Document Object Model (DOM) Level 2 Events Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSStyleSheet.prototype.deleteRule", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onscroll", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "DataTransfer.prototype.mozTypesAt", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "DataTransfer.prototype.mozClearDataAt", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-Core/", "feature": "Node.prototype.contains", "standard:": "Document Object Model (DOM) Level 3 Core Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.createImageData", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.generateCertificate", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://drafts.csswg.org/css-font-loading/", "feature": "FontFaceSet.prototype.load", "standard:": "CSS Font Loading Module Level 3"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onmouseenter", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.lastStyleSheetSet", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/encrypted-media/", "feature": "MediaKeySystemAccess.prototype.createMediaKeys", "standard:": "Encrypted Media Extensions"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.scaleNonUniform", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.links", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getParameter", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransform.prototype.setTranslate", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://w3c.github.io/encrypted-media/", "feature": "MediaKeyStatusMap.prototype.values", "standard:": "Encrypted Media Extensions"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "DOMImplementation.prototype.hasFeature", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "document.compatMode", "standard:": "DOM"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLElement.prototype.focus", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "Path2D.prototype.moveTo", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGMatrix.prototype.rotateFromVector", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://notifications.spec.whatwg.org/", "feature": "DesktopNotification.prototype.show", "standard:": "Web Notifications"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onmouseup", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.deleteRenderbuffer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.atob", "standard:": "HTML 5"}
+{"url_standard:": "https://w3c.github.io/pointerlock/", "feature": "document.mozPointerLockElement", "standard:": "Pointer Lock"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform3iv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "DataTransfer.prototype.mozGetDataAt", "standard:": "HTML"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.time", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "NodeIterator.prototype.detach", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "OfflineResourceList.prototype.mozAdd", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBObjectStore.prototype.deleteIndex", "standard:": "Indexed Database API"}
+{"url_standard:": "https://w3c.github.io/encrypted-media/", "feature": "MediaKeySystemAccess.prototype.getConfiguration", "standard:": "Encrypted Media Extensions"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.toFloat64Array", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onmessage", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGFilterElement.apply", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.texSubImage2D", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/mediacapture-streams/", "feature": "MediaDevices.prototype.getUserMedia", "standard:": "Media Capture and Streams"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.pixelStorei", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSPrimitiveValue.prototype.getFloatValue", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "OfflineResourceList.prototype.mozHasItem", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTextContentElement.prototype.getStartPositionOfChar", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.createAnswer", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "RTCRtpSender.prototype.replaceTrack", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "screen.left", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSRuleList.prototype.item", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBKeyRange.lowerBound", "standard:": "Indexed Database API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.clip", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransformList.prototype.consolidate", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.texParameteri", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransform.prototype.setSkewX", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform2fv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ondrag", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBIndex.prototype.get", "standard:": "Indexed Database API"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.rotateFromVector", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.loadEventStart", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.cullFace", "standard:": "WebGL Specification"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.skewY", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLCollection.prototype.namedItem", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLSelectElement.prototype.checkValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPointList.prototype.appendItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ondragleave", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.toolbar", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-Core/", "feature": "Node.prototype.isEqualNode", "standard:": "Document Object Model (DOM) Level 3 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.setEndBefore", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "Screen.prototype.mozUnlockOrientation", "standard:": "The Screen Orientation API"}
+{"url_standard:": "https://w3c.github.io/encrypted-media/", "feature": "MediaKeys.prototype.createSession", "standard:": "Encrypted Media Extensions"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.copyTexSubImage2D", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGStringList.prototype.appendItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "Path2D.prototype.arcTo", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.forceRedraw", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.depthFunc", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onfocus", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/encrypted-media/", "feature": "MediaKeyStatusMap.prototype.entries", "standard:": "Encrypted Media Extensions"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.createProgram", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.polygonOffset", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform2f", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.lineTo", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onseeking", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ondrop", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLFormElement.prototype.submit", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLObjectElement.prototype.checkValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "DocumentType.prototype.remove", "standard:": "DOM"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webstorage.html", "feature": "Storage.prototype.removeItem", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onblur", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.createRenderbuffer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "window.performance", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "TextTrack.prototype.removeCue", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGStringList.prototype.getItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/browsers.html#the-history-interface", "feature": "window.history", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransform.prototype.setScale", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/media-source/", "feature": "SourceBuffer.prototype.appendBuffer", "standard:": "Media Source Extensions"}
+{"url_standard:": "https://xhr.spec.whatwg.org/", "feature": "FormData.prototype.delete", "standard:": "XMLHttpRequest"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.vertexAttrib1fv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "document.onafterscriptexecute", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-HTML/", "feature": "document.open", "standard:": "Document Object Model (DOM) Level 2 HTML Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBObjectStore.prototype.count", "standard:": "Indexed Database API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.frames", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.scrollBy", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.getImageData", "standard:": "HTML"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.toFloat32Array", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getShaderPrecisionFormat", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/page-visibility/", "feature": "document.hidden", "standard:": "Page Visibility (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onseeking", "standard:": "HTML"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.dir", "standard:": "Console API"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "document.close", "standard:": "DOM"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Element.prototype.hasAttributes", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.flipX", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.timelineEnd", "standard:": "Console API"}
+{"url_standard:": "https://w3c.github.io/pointerlock/", "feature": "window.onmozpointerlockchange", "standard:": "Pointer Lock"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-Core/", "feature": "Document.prototype.adoptNode", "standard:": "Document Object Model (DOM) Level 3 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.selectNode", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.clearDepth", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.ondragover", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onafterprint", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLButtonElement.prototype.checkValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://drafts.csswg.org/css-font-loading/", "feature": "FontFaceSet.prototype.clear", "standard:": "CSS Font Loading Module Level 3"}
+{"url_standard:": "https://www.w3.org/TR/beacon/", "feature": "Navigator.prototype.sendBeacon", "standard:": "Beacon"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTextContentElement.prototype.selectSubString", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGAnimationElement.prototype.getSimpleDuration", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegCurvetoQuadraticSmoothRel", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.removeStream", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTextContentElement.prototype.getNumberOfChars", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransformList.prototype.createSVGTransformFromMatrix", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.getElementById", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "navigator.vendor", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.oninput", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/animation-timing", "feature": "window.cancelAnimationFrame", "standard:": "Timing control for script-based animations"}
+{"url_standard:": "https://fullscreen.spec.whatwg.org/", "feature": "document.mozFullScreenElement", "standard:": "Fullscreen API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.clearColor", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegLinetoVerticalRel", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onpageshow", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onkeyup", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLFieldSetElement.prototype.checkValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.createSVGLength", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.resizeBy", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onpopstate", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/mediastream-recording/", "feature": "MediaRecorder.prototype.start", "standard:": "MediaStream Recording"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "navigator.product", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/resource-timing/", "feature": "Performance.prototype.clearResourceTimings", "standard:": "Resource Timing"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.setResizable", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.addIceCandidate", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.navigationStart", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.vertexAttrib2fv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.profileEnd", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "SubtleCrypto.prototype.exportKey", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLMediaElement.prototype.fastSeek", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.scale", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ondragenter", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.btoa", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.cloneRange", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onclick", "standard:": "HTML"}
+{"url_standard:": "https://fullscreen.spec.whatwg.org/", "feature": "document.mozFullScreen", "standard:": "Fullscreen API"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "document.preferredStyleSheetSet", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.getTotalLength", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.isContextLost", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.stencilOp", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/service-workers/", "feature": "Cache.prototype.add", "standard:": "Service Workers"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPointList.prototype.initialize", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBDatabase.prototype.transaction", "standard:": "Indexed Database API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onkeydown", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Document.prototype.createTextNode", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onmousedown", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBKeyRange.only", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSPrimitiveValue.prototype.setStringValue", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLElement.prototype.click", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform2i", "standard:": "WebGL Specification"}
+{"url_standard:": "https://w3c.github.io/encrypted-media/", "feature": "MediaKeyStatusMap.prototype.keys", "standard:": "Encrypted Media Extensions"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLMediaElement.prototype.mozCaptureStream", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onseeked", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.confirm", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.window", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLMediaElement.prototype.load", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBMutableFile.prototype.open", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/service-workers/", "feature": "window.caches", "standard:": "Service Workers"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.focus", "standard:": "HTML"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrix.prototype.rotateSelf", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "location.reload", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onsubmit", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegLinetoVerticalAbs", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-XPath/", "feature": "Document.prototype.createNSResolver", "standard:": "Document Object Model (DOM) Level 3 XPath Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.document", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLCollection.prototype.item", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "TimeEvent.prototype.initTimeEvent", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/service-workers/", "feature": "Cache.prototype.delete", "standard:": "Service Workers"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform3f", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLDocument.prototype.open", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://w3c.github.io/uievents/", "feature": "MouseEvent.prototype.initMouseEvent", "standard:": "UI Events Specification"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "StyleSheetList.prototype.item", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://www.w3.org/TR/media-source/", "feature": "MediaSource.prototype.addSourceBuffer", "standard:": "Media Source Extensions"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onerror", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onsubmit", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/user-timing/", "feature": "Performance.prototype.clearMeasures", "standard:": "User Timing Level 2"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.getRemoteStreams", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://fullscreen.spec.whatwg.org/", "feature": "document.onmozfullscreenerror", "standard:": "Fullscreen API"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBObjectStore.prototype.index", "standard:": "Indexed Database API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webappapis.html#plugins-2", "feature": "PluginArray.prototype.item", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.setEndAfter", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.quadraticCurveTo", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/mediacapture-streams/", "feature": "LocalMediaStream.prototype.stop", "standard:": "Media Capture and Streams"}
+{"url_standard:": "https://w3c.github.io/DOM-Parsing/", "feature": "Element.prototype.insertAdjacentHTML", "standard:": "DOM Parsing and Serialization"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBFileHandle.prototype.append", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.connectStart", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLSelectElement.prototype.setCustomValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/browsers.html#the-history-interface", "feature": "History.prototype.pushState", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.hint", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.isShader", "standard:": "WebGL Specification"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "Selection.prototype.deleteFromDocument", "standard:": "Selection API"}
+{"url_standard:": "https://fullscreen.spec.whatwg.org/", "feature": "Document.prototype.mozCancelFullScreen", "standard:": "Fullscreen API"}
+{"url_standard:": "https://w3c.github.io/pointerlock/", "feature": "Element.prototype.mozRequestPointerLock", "standard:": "Pointer Lock"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.clear", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-HTML/", "feature": "document.URL", "standard:": "Document Object Model (DOM) Level 2 HTML Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.framebufferTexture2D", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.styleSheetSets", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.connectEnd", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.w3.org/TR/mediacapture-streams/", "feature": "navigator.mediaDevices", "standard:": "Media Capture and Streams"}
+{"url_standard:": "https://w3c.github.io/FileAPI/", "feature": "Blob.prototype.slice", "standard:": "File API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webappapis.html#plugins-2", "feature": "PluginArray.prototype.refresh", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLInputElement.prototype.setRangeText", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPointList.prototype.insertItemBefore", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getAttachedShaders", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.ontimeupdate", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.createBuffer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.setTransform", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTextContentElement.prototype.getSubStringLength", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onmouseleave", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.redirectEnd", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "TreeWalker.prototype.lastChild", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrix.prototype.skewYSelf", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.deleteShader", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onload", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.isProgram", "standard:": "WebGL Specification"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "Selection.prototype.containsNode", "standard:": "Selection API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGNumberList.prototype.removeItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-HTML/", "feature": "document.title", "standard:": "Document Object Model (DOM) Level 2 HTML Specification"}
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "screen.mozOrientation", "standard:": "The Screen Orientation API"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "document.firstElementChild", "standard:": "DOM"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "navigator.appVersion", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.suspendRedraw", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://w3c.github.io/user-timing/", "feature": "Performance.prototype.clearMarks", "standard:": "User Timing Level 2"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathSegList.prototype.appendItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.screenY", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "document.styleSheets", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.w3.org/TR/dom/", "feature": "MutationObserver.prototype.disconnect", "standard:": "W3C DOM4"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform1f", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLTextAreaElement.prototype.setSelectionRange", "standard:": "HTML 5"}
+{"url_standard:": "https://xhr.spec.whatwg.org/", "feature": "FormData.prototype.has", "standard:": "XMLHttpRequest"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/comms.html#dom-broadcastchannel-postmessage", "feature": "BroadcastChannel.prototype.postMessage", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGMatrix.prototype.rotate", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.surroundContents", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/comms.html#network", "feature": "WebSocket.prototype.close", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.closePath", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.fillRect", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.designMode", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onblur", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.personalbar", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.createSVGPoint", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransformList.prototype.appendItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/service-workers/", "feature": "CacheStorage.prototype.keys", "standard:": "Service Workers"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGMatrix.prototype.multiply", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "document.readyState", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegMovetoRel", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.blur", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "PropertyNodeList.prototype.getValues", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGStringList.prototype.clear", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Element.prototype.setAttribute", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/battery-status/", "feature": "Navigator.prototype.getBattery", "standard:": "Battery Status API"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLInputElement.prototype.checkValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.status", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBObjectStore.prototype.createIndex", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.clearStencil", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webappapis.html#plugins-2", "feature": "document.plugins", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.getLocalStreams", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniformMatrix4fv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onloadeddata", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.ondrag", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.oncopy", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/encrypted-media/", "feature": "Navigator.prototype.requestMediaKeySystemAccess", "standard:": "Encrypted Media Extensions"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getShaderSource", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.rotate", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onplay", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/service-workers/", "feature": "CacheStorage.prototype.has", "standard:": "Service Workers"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onloadedmetadata", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.unloadEventStart", "standard:": "Navigation Timing"}
+{"url_standard:": "https://w3c.github.io/pointerlock/", "feature": "document.onmozpointerlockerror", "standard:": "Pointer Lock"}
+{"url_standard:": "https://drafts.csswg.org/css-font-loading/", "feature": "FontFaceSet.prototype.has", "standard:": "CSS Font Loading Module Level 3"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLOutputElement.prototype.setCustomValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Node.prototype.removeChild", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransformList.prototype.clear", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://w3c.github.io/encrypted-media/", "feature": "MediaKeySession.prototype.remove", "standard:": "Encrypted Media Extensions"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSStyleDeclaration.prototype.getPropertyPriority", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBFileHandle.prototype.truncate", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGLengthList.prototype.insertItemBefore", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.transform", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onpagehide", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "screen.pixelDepth", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.locationbar", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLInputElement.prototype.stepDown", "standard:": "HTML 5"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "MediaQueryList.prototype.addListener", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://www.w3.org/TR/media-source/", "feature": "SourceBuffer.prototype.remove", "standard:": "Media Source Extensions"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.drawImage", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLDocument.prototype.write", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGNumberList.prototype.replaceItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "window.requestAnimationFrame", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/css-font-loading/", "feature": "FontFaceSet.prototype.values", "standard:": "CSS Font Loading Module Level 3"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.scissor", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBCursor.prototype.advance", "standard:": "Indexed Database API"}
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "ScreenOrientation.prototype.unlock", "standard:": "The Screen Orientation API"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.assert", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "document.location", "standard:": "HTML 5"}
+{"url_standard:": "https://drafts.csswg.org/css-conditional-3/", "feature": "CSS.supports", "standard:": "CSS Conditional Rules Module Level 3"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-Core/", "feature": "Node.prototype.isDefaultNamespace", "standard:": "Document Object Model (DOM) Level 3 Core Specification"}
+{"url_standard:": "https://w3c.github.io/editing/execCommand.html", "feature": "HTMLDocument.prototype.queryCommandValue", "standard:": "execCommand"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "navigator.cookieEnabled", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/css-font-loading/", "feature": "FontFace.prototype.load", "standard:": "CSS Font Loading Module Level 3"}
+{"url_standard:": "https://www.w3.org/TR/selectors-api", "feature": "Document.prototype.querySelector", "standard:": "Selectors API Level 1"}
+{"url_standard:": "https://w3c.github.io/editing/execCommand.html", "feature": "document.queryCommandIndeterm", "standard:": "execCommand"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBFileHandle.prototype.getMetadata", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getSupportedExtensions", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathSegList.prototype.removeItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.isTexture", "standard:": "WebGL Specification"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrix.prototype.skewXSelf", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-Core/", "feature": "Node.prototype.lookupNamespaceURI", "standard:": "Document Object Model (DOM) Level 3 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.getIdentityAssertion", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "location.href", "standard:": "HTML 5"}
+{"url_standard:": "https://wicg.github.io/directory-upload/proposal.html", "feature": "Directory.prototype.getFilesAndDirectories", "standard:": "Directory Upload"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onprogress", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onended", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getRenderbufferParameter", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onunload", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGStringList.prototype.removeItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.drawFocusIfNeeded", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.getSenders", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.showModalDialog", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/editing/execCommand.html", "feature": "HTMLDocument.prototype.queryCommandState", "standard:": "execCommand"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/comms.html#channel-messaging", "feature": "window.postMessage", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSPrimitiveValue.prototype.getCounterValue", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "screen.orientation", "standard:": "The Screen Orientation API"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "OfflineResourceList.prototype.mozRemove", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onhashchange", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.head", "standard:": "HTML"}
+{"url_standard:": "https://xhr.spec.whatwg.org/", "feature": "FormData.prototype.get", "standard:": "XMLHttpRequest"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform4f", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onbeforeunload", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/orientation-event/", "feature": "DeviceMotionEvent.prototype.initDeviceMotionEvent", "standard:": "DeviceOrientation Event Specification"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "Element.prototype.getBoundingClientRect", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://fullscreen.spec.whatwg.org/", "feature": "document.onmozfullscreenchange", "standard:": "Fullscreen API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGLengthList.prototype.replaceItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onvolumechange", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform3i", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.domContentLoadedEventEnd", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.validateProgram", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onmouseenter", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegLinetoHorizontalRel", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "DataTransfer.prototype.setDragImage", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/FileAPI/", "feature": "FileReader.prototype.readAsText", "standard:": "File API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onoffline", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "DataTransfer.prototype.getData", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/mediastream-recording/", "feature": "MediaStreamTrack.prototype.stop", "standard:": "MediaStream Recording"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.removeTrack", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransformList.prototype.replaceItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "screen.colorDepth", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "SubtleCrypto.prototype.wrapKey", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.stencilMaskSeparate", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.responseStart", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Element.prototype.setAttributeNS", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Node.prototype.normalize", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGLengthList.prototype.initialize", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBObjectStore.prototype.add", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.createSVGNumber", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.outerWidth", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "document.domain", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBFactory.prototype.cmp", "standard:": "Indexed Database API"}
+{"url_standard:": "https://w3c.github.io/uievents/", "feature": "Event.prototype.stopImmediatePropagation", "standard:": "UI Events Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onreset", "standard:": "HTML"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrix.prototype.translateSelf", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPointList.prototype.getItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTextContentElement.prototype.getExtentOfChar", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLSelectElement.prototype.add", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://w3c.github.io/uievents/", "feature": "MutationEvent.prototype.initMutationEvent", "standard:": "UI Events Specification"}
+{"url_standard:": "https://www.w3.org/TR/mediastream-recording/", "feature": "MediaRecorder.prototype.stop", "standard:": "MediaStream Recording"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGAnimationElement.prototype.getStartTime", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getShaderInfoLog", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.clear", "standard:": "WebGL Specification"}
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "screen.onmozorientationchange", "standard:": "The Screen Orientation API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Document.prototype.importNode", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLFormElement.prototype.checkValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBDatabase.prototype.close", "standard:": "Indexed Database API"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.groupCollapsed", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-HTML/", "feature": "document.cookie", "standard:": "Document Object Model (DOM) Level 2 HTML Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "NodeIterator.prototype.previousNode", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.w3.org/TR/dom/", "feature": "MutationObserver.prototype.takeRecords", "standard:": "W3C DOM4"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniformMatrix3fv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onbeforeprint", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.stop", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.setTimeout", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.close", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "Path2D.prototype.quadraticCurveTo", "standard:": "HTML"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "Selection.prototype.collapseToStart", "standard:": "Selection API"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLButtonElement.prototype.setCustomValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransformList.prototype.removeItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "Element.prototype.mozMatchesSelector", "standard:": "DOM"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTableElement.prototype.createCaption", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://w3c.github.io/pointerlock/", "feature": "document.onmozpointerlockchange", "standard:": "Pointer Lock"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.navigator", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "DataTransfer.prototype.setData", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGMatrix.prototype.scale", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLMediaElement.prototype.setMediaKeys", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webstorage.html", "feature": "StorageEvent.prototype.initStorageEvent", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/editing/execCommand.html", "feature": "document.execCommand", "standard:": "execCommand"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-Core/", "feature": "Node.prototype.lookupPrefix", "standard:": "Document Object Model (DOM) Level 3 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "NodeIterator.prototype.nextNode", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "Selection.prototype.addRange", "standard:": "Selection API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.oninvalid", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.length", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGFEGaussianBlurElement.prototype.setStdDeviation", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Element.prototype.getElementsByTagNameNS", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLTextAreaElement.prototype.setRangeText", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTextAreaElement.prototype.select", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSPrimitiveValue.prototype.getRGBColorValue", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTableRowElement.prototype.insertCell", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLTextAreaElement.prototype.setCustomValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.alert", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "window.crypto", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "document.documentElement", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTableElement.prototype.createTBody", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webappapis.html#plugins-2", "feature": "MimeTypeArray.prototype.item", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/editing/execCommand.html", "feature": "document.queryCommandEnabled", "standard:": "execCommand"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathSegList.prototype.insertItemBefore", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://drafts.csswg.org/css-font-loading/", "feature": "FontFaceSet.prototype.add", "standard:": "CSS Font Loading Module Level 3"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.depthMask", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onwaiting", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-HTML/", "feature": "HTMLElement.prototype.blur", "standard:": "Document Object Model (DOM) Level 2 HTML Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBDatabase.prototype.createObjectStore", "standard:": "Indexed Database API"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "window.clearTimeout", "standard:": "DOM"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.screenX", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "HTMLEmbedElement.prototype.getSVGDocument", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "document.implementation", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.setStartAfter", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "window.clearInterval", "standard:": "DOM"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.viewport", "standard:": "WebGL Specification"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "Element.prototype.scrollTo", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://www.w3.org/TR/performance-timeline", "feature": "Performance.prototype.getEntriesByName", "standard:": "Performance Timeline"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "window.getSelection", "standard:": "Selection API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-XPath/", "feature": "XPathResult.prototype.iterateNext", "standard:": "Document Object Model (DOM) Level 3 XPath Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "TreeWalker.prototype.previousNode", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform1fv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/comms.html#dom-broadcastchannel-postmessage", "feature": "BroadcastChannel.prototype.close", "standard:": "HTML"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "document.children", "standard:": "DOM"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrix.prototype.preMultiplySelf", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "DataTransfer.prototype.mozSetDataAt", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Document.prototype.getElementsByTagName", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/html51/", "feature": "navigator.languages", "standard:": "HTML 5.1"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "document.lastElementChild", "standard:": "DOM"}
+{"url_standard:": "https://www.w3.org/TR/battery-status/", "feature": "navigator.battery", "standard:": "Battery Status API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.stencilOpSeparate", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "Path2D.prototype.lineTo", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.texParameterf", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform4iv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Element.prototype.removeAttributeNS", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getBufferParameter", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onplaying", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBFileHandle.prototype.write", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGAnimationElement.prototype.hasExtension", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBDatabase.prototype.createMutableFile", "standard:": "Indexed Database API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.strokeText", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.vertexAttribPointer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.pageXOffset", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onabort", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.scrollX", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getProgramInfoLog", "standard:": "WebGL Specification"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMRectList.prototype.item", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Node.prototype.replaceChild", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-Core/", "feature": "DOMStringList.prototype.contains", "standard:": "Document Object Model (DOM) Level 3 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "TextTrackList.prototype.getTrackById", "standard:": "HTML 5"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "Selection.prototype.removeAllRanges", "standard:": "Selection API"}
+{"url_standard:": "https://www.w3.org/TR/orientation-event/", "feature": "DeviceOrientationEvent.prototype.initDeviceOrientationEvent", "standard:": "DeviceOrientation Event Specification"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "SubtleCrypto.prototype.digest", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.statusbar", "standard:": "HTML 5"}
+{"url_standard:": "https://w3c.github.io/ambient-light/", "feature": "window.ondevicelight", "standard:": "Ambient Light Sensor API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "Path2D.prototype.bezierCurveTo", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGStringList.prototype.replaceItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.ondragenter", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.setStartBefore", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.dirxml", "standard:": "Console API"}
+{"url_standard:": "https://url.spec.whatwg.org/", "feature": "URLSearchParams.prototype.getAll", "standard:": "URL"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.comparePoint", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://url.spec.whatwg.org/", "feature": "URLSearchParams.prototype.delete", "standard:": "URL"}
+{"url_standard:": "https://w3c.github.io/proximity/", "feature": "window.ondeviceproximity", "standard:": "Proximity Events"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onselect", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.setStart", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onerror", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.bindBuffer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "DataTransfer.prototype.addElement", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "NamedNodeMap.prototype.removeNamedItemNS", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGGraphicsElement.prototype.getBBox", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Events/", "feature": "Event.prototype.stopPropagation", "standard:": "Document Object Model (DOM) Level 2 Events Specification"}
+{"url_standard:": "https://xhr.spec.whatwg.org/", "feature": "FormData.prototype.append", "standard:": "XMLHttpRequest"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "SubtleCrypto.prototype.unwrapKey", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTableSectionElement.prototype.deleteRow", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSPrimitiveValue.prototype.getStringValue", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBFileHandle.prototype.readAsText", "standard:": "Indexed Database API"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "CSS.escape", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLInputElement.prototype.stepUp", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "Navigator.prototype.registerContentHandler", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onsuspend", "standard:": "HTML"}
+{"url_standard:": "https://url.spec.whatwg.org/", "feature": "URLSearchParams.prototype.has", "standard:": "URL"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-XPath/", "feature": "XPathEvaluator.prototype.createExpression", "standard:": "Document Object Model (DOM) Level 3 XPath Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onclick", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "screen.availWidth", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "document.onbeforescriptexecute", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/dom/", "feature": "MutationObserver.prototype.observe", "standard:": "W3C DOM4"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.open", "standard:": "HTML"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.scale3d", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Events/", "feature": "EventTarget.prototype.removeEventListener", "standard:": "Document Object Model (DOM) Level 2 Events Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.measureText", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "screen.availHeight", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onmouseout", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "SubtleCrypto.prototype.sign", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "navigator.onLine", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.navigation.redirectCount", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.unsuspendRedrawAll", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.finish", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.bindRenderbuffer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.vertexAttrib4f", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPoint.prototype.matrixTransform", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/mediastream-recording/", "feature": "MediaStream.prototype.getVideoTracks", "standard:": "MediaStream Recording"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.domComplete", "standard:": "Navigation Timing"}
+{"url_standard:": "https://w3c.github.io/uievents/", "feature": "UIEvent.prototype.initUIEvent", "standard:": "UI Events Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.oninput", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.vertexAttrib3f", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onplay", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "NodeList.prototype.item", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBIndex.prototype.getKey", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Document.prototype.getElementsByTagNameNS", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.domainLookupEnd", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform3fv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "EventSource.prototype.close", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBObjectStore.prototype.delete", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLDocument.prototype.close", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Element.prototype.getAttributeNodeNS", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.rotate", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/browsers.html#the-history-interface", "feature": "History.prototype.forward", "standard:": "HTML"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "document.inputEncoding", "standard:": "DOM"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.multiply", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.selectedStyleSheetSet", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLSelectElement.prototype.namedItem", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://notifications.spec.whatwg.org/", "feature": "Notification.prototype.close", "standard:": "Web Notifications"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.copyTexImage2D", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "location.assign", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGMatrix.prototype.inverse", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.createSVGAngle", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "location.replace", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGMatrix.prototype.translate", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLSelectElement.prototype.remove", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/media-source/", "feature": "SourceBuffer.prototype.abort", "standard:": "Media Source Extensions"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onprogress", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Element.prototype.hasAttributeNS", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Node.prototype.hasChildNodes", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.scale", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGLength.prototype.newValueSpecifiedUnits", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/mediastream-recording/", "feature": "MediaRecorder.prototype.pause", "standard:": "MediaStream Recording"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "Selection.prototype.getRangeAt", "standard:": "Selection API"}
+{"url_standard:": "https://w3c.github.io/mediacapture-fromelement/", "feature": "CanvasCaptureMediaStream.prototype.requestFrame", "standard:": "Media Capture from DOM Elements"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.redirectStart", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBDatabase.prototype.deleteObjectStore", "standard:": "Indexed Database API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webstorage.html", "feature": "Storage.prototype.getItem", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGLength.prototype.convertToSpecifiedUnits", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onmousemove", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html51/", "feature": "External.prototype.addSearchEngine", "standard:": "HTML 5.1"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.sampleCoverage", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.flush", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.lineWidth", "standard:": "WebGL Specification"}
+{"url_standard:": "https://w3c.github.io/editing/execCommand.html", "feature": "document.queryCommandValue", "standard:": "execCommand"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-XPath/", "feature": "Document.prototype.createExpression", "standard:": "Document Object Model (DOM) Level 3 XPath Specification"}
+{"url_standard:": "https://w3c.github.io/encrypted-media/", "feature": "MediaKeys.prototype.setServerCertificate", "standard:": "Encrypted Media Extensions"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onresize", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.ondblclick", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "RTCStatsReport.prototype.has", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.setLocalDescription", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "Selection.prototype.extend", "standard:": "Selection API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Document.prototype.createRange", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.w3.org/TR/mediastream-recording/", "feature": "MediaRecorder.prototype.resume", "standard:": "MediaStream Recording"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "NamedNodeMap.prototype.getNamedItemNS", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/comms.html#channel-messaging", "feature": "MessagePort.prototype.start", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.deleteProgram", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onscroll", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ondragstart", "standard:": "HTML"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "Element.prototype.remove", "standard:": "DOM"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBIndex.prototype.openKeyCursor", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-Core/", "feature": "document.documentURI", "standard:": "Document Object Model (DOM) Level 3 Core Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.strokeRect", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGMatrix.prototype.skewX", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "screen.width", "standard:": "CSSOM View Module"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "Selection.prototype.selectAllChildren", "standard:": "Selection API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webstorage.html", "feature": "Storage.prototype.setItem", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "NamedNodeMap.prototype.setNamedItem", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getUniform", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.extractContents", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.isPointInStroke", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "Navigator.prototype.registerProtocolHandler", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "HashChangeEvent.prototype.initHashChangeEvent", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/css-font-loading/", "feature": "FontFaceSet.prototype.check", "standard:": "CSS Font Loading Module Level 3"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "SubtleCrypto.prototype.decrypt", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.print", "standard:": "HTML 5"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrix.prototype.rotateAxisAngleSelf", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.bufferData", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGStringList.prototype.initialize", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.setCurrentTime", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.ondurationchange", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Element.prototype.hasAttribute", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webappapis.html#plugins-2", "feature": "MimeTypeArray.prototype.namedItem", "standard:": "HTML"}
+{"url_standard:": "https://fetch.spec.whatwg.org/", "feature": "window.fetch", "standard:": "Fetch"}
+{"url_standard:": "https://www.w3.org/TR/mediastream-recording/", "feature": "MediaStreamTrack.prototype.applyConstraints", "standard:": "MediaStream Recording"}
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "Screen.prototype.mozLockOrientation", "standard:": "The Screen Orientation API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "navigator.productSub", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/gamepad/", "feature": "Navigator.prototype.getGamepads", "standard:": "Gamepad"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getAttribLocation", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.isFramebuffer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.animationsPaused", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBObjectStore.prototype.clear", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Element.prototype.getAttributeNode", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGMarkerElement.prototype.setOrientToAuto", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBIndex.prototype.count", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.bufferSubData", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.top", "standard:": "HTML"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "document.characterSet", "standard:": "DOM"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onchange", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.stroke", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/encrypted-media/", "feature": "MediaKeySession.prototype.update", "standard:": "Encrypted Media Extensions"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onmousemove", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "screen.height", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.unsuspendRedraw", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "SubtleCrypto.prototype.encrypt", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/browsers.html#the-history-interface", "feature": "History.prototype.back", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/mediastream-recording/", "feature": "MediaRecorder.prototype.requestData", "standard:": "MediaStream Recording"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onpause", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "HTMLObjectElement.prototype.getSVGDocument", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.moveTo", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-XPath/", "feature": "XPathExpression.prototype.evaluate", "standard:": "Document Object Model (DOM) Level 3 XPath Specification"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrix.prototype.rotateFromVectorSelf", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "Selection.prototype.collapseToEnd", "standard:": "Selection API"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.scrollY", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "RTCStatsReport.prototype.get", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransformList.prototype.insertItemBefore", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "Element.prototype.getClientRects", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTableElement.prototype.createTFoot", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGGraphicsElement.prototype.getTransformToElement", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "TreeWalker.prototype.nextNode", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://fullscreen.spec.whatwg.org/", "feature": "window.onmozfullscreenerror", "standard:": "Fullscreen API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Document.prototype.createTreeWalker", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onemptied", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.createPattern", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.opener", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.pageYOffset", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onresize", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "TextTrackCueList.prototype.getCueById", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/selectors-api", "feature": "Element.prototype.querySelectorAll", "standard:": "Selectors API Level 1"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webstorage.html", "feature": "Storage.prototype.clear", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTableElement.prototype.deleteRow", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform2iv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ondblclick", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "document.defaultView", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGLengthList.prototype.getItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.self", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.vertexAttrib2f", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.stencilFuncSeparate", "standard:": "WebGL Specification"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.timeEnd", "standard:": "Console API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getActiveUniform", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Node.prototype.insertBefore", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBCursor.prototype.update", "standard:": "Indexed Database API"}
+{"url_standard:": "https://w3c.github.io/FileAPI/", "feature": "URL.createObjectURL", "standard:": "File API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getVertexAttrib", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/html51/", "feature": "External.prototype.IsSearchProviderInstalled", "standard:": "HTML 5.1"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "SubtleCrypto.prototype.deriveKey", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.readPixels", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.oncanplay", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBTransaction.prototype.abort", "standard:": "Indexed Database API"}
+{"url_standard:": "https://w3c.github.io/user-timing/", "feature": "Performance.prototype.mark", "standard:": "User Timing Level 2"}
+{"url_standard:": "https://w3c.github.io/webvtt/", "feature": "VTTCue.prototype.getCueAsHTML", "standard:": "WebVTT: The Web Video Text Tracks Format"}
+{"url_standard:": "https://w3c.github.io/user-timing/", "feature": "Performance.prototype.measure", "standard:": "User Timing Level 2"}
+{"url_standard:": "https://w3c.github.io/FileAPI/", "feature": "URL.revokeObjectURL", "standard:": "File API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.frontFace", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/service-workers/", "feature": "Cache.prototype.keys", "standard:": "Service Workers"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "navigator.platform", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTextContentElement.prototype.getEndPositionOfChar", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onabort", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.vertexAttrib4fv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSStyleDeclaration.prototype.setProperty", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.compressedTexImage2D", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "OfflineResourceList.prototype.mozItem", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/service-workers/", "feature": "Cache.prototype.addAll", "standard:": "Service Workers"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-XPath/", "feature": "XPathEvaluator.prototype.createNSResolver", "standard:": "Document Object Model (DOM) Level 3 XPath Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathSegList.prototype.clear", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.frameElement", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.deleteFramebuffer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://drafts.csswg.org/css-font-loading/", "feature": "FontFaceSet.prototype.delete", "standard:": "CSS Font Loading Module Level 3"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTableRowElement.prototype.deleteCell", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.createSVGRect", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/service-workers/", "feature": "CacheStorage.prototype.open", "standard:": "Service Workers"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBCursor.prototype.continue", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Element.prototype.getElementsByTagName", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/media-source/", "feature": "MediaSource.prototype.endOfStream", "standard:": "Media Source Extensions"}
+{"url_standard:": "https://notifications.spec.whatwg.org/", "feature": "DesktopNotificationCenter.prototype.createNotification", "standard:": "Web Notifications"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGAnimationElement.prototype.beginElement", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.setRemoteDescription", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.devicePixelRatio", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/performance-timeline", "feature": "Performance.prototype.getEntriesByType", "standard:": "Performance Timeline"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "OfflineResourceList.prototype.update", "standard:": "HTML 5"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.inverse", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.enable", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/service-workers/", "feature": "Cache.prototype.matchAll", "standard:": "Service Workers"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.innerHeight", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.setEnd", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "Path2D.prototype.closePath", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.bindFramebuffer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLDocument.prototype.writeln", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.loadEventEnd", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransformList.prototype.initialize", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransform.prototype.setSkewY", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/page-visibility/", "feature": "document.visibilityState", "standard:": "Page Visibility (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBMutableFile.prototype.getFile", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.texImage2D", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGAngle.prototype.convertToSpecifiedUnits", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.oncanplaythrough", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.dir", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTextContentElement.prototype.getRotationOfChar", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onvolumechange", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegMovetoAbs", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.isEnabled", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.createSVGMatrix", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onstalled", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/encrypted-media/", "feature": "MediaKeySession.prototype.close", "standard:": "Encrypted Media Extensions"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPointList.prototype.removeItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGLengthList.prototype.clear", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://w3c.github.io/encrypted-media/", "feature": "MediaKeySession.prototype.load", "standard:": "Encrypted Media Extensions"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/workers.html", "feature": "Worker.prototype.terminate", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Document.prototype.createComment", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrix.prototype.setMatrixValue", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://w3c.github.io/pointerlock/", "feature": "Document.prototype.mozExitPointerLock", "standard:": "Pointer Lock"}
+{"url_standard:": "https://w3c.github.io/pointerlock/", "feature": "window.onmozpointerlockerror", "standard:": "Pointer Lock"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.transformPoint", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegArcRel", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.framebufferRenderbuffer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.setInterval", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "Element.prototype.scrollBy", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Document.prototype.getElementById", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-HTML/", "feature": "document.writeln", "standard:": "Document Object Model (DOM) Level 2 HTML Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.bezierCurveTo", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegCurvetoQuadraticAbs", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "CaretPosition.prototype.getClientRect", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://w3c.github.io/performance-timeline", "feature": "Performance.prototype.getEntries", "standard:": "Performance Timeline Level 2"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getActiveAttrib", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getProgramParameter", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-HTML/", "feature": "document.referrer", "standard:": "Document Object Model (DOM) Level 2 HTML Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathSegList.prototype.initialize", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/service-workers/", "feature": "CacheStorage.prototype.match", "standard:": "Service Workers"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegArcAbs", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBIndex.prototype.mozGetAllKeys", "standard:": "Indexed Database API"}
+{"url_standard:": "https://drafts.csswg.org/css-font-loading/", "feature": "FontFaceSet.prototype.forEach", "standard:": "CSS Font Loading Module Level 3"}
+{"url_standard:": "https://www.w3.org/TR/service-workers/", "feature": "Cache.prototype.put", "standard:": "Service Workers"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webstorage.html", "feature": "Storage.prototype.key", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/editing/execCommand.html", "feature": "HTMLDocument.prototype.queryCommandEnabled", "standard:": "execCommand"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGFEDropShadowElement.prototype.setStdDeviation", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.domInteractive", "standard:": "Navigation Timing"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.rotateAxisAngle", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGGraphicsElement.prototype.getScreenCTM", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onpause", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.compileShader", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "Path2D.prototype.addPath", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.isPointInPath", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "TreeWalker.prototype.parentNode", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "DataTransfer.prototype.clearData", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniformMatrix2fv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.menubar", "standard:": "HTML 5"}
+{"url_standard:": "https://drafts.csswg.org/css-font-loading/", "feature": "document.fonts", "standard:": "CSS Font Loading Module Level 3"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onmouseover", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onwaiting", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Element.prototype.setAttributeNodeNS", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-Core/", "feature": "DOMStringList.prototype.item", "standard:": "Document Object Model (DOM) Level 3 Core Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.oncontextmenu", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "Path2D.prototype.arc", "standard:": "HTML"}
+{"url_standard:": "https://url.spec.whatwg.org/", "feature": "URLSearchParams.prototype.set", "standard:": "URL"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.bindAttribLocation", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.stencilFunc", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.name", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onratechange", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.navigation.type", "standard:": "Navigation Timing"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.oninvalid", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/uievents/", "feature": "MouseEvent.prototype.getModifierState", "standard:": "UI Events Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ondragover", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.renderbufferStorage", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onchange", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGAngle.prototype.newValueSpecifiedUnits", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGNumberList.prototype.initialize", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://dom.spec.whatwg.org/", "feature": "CustomEvent.prototype.initCustomEvent", "standard:": "DOM"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onmousedown", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/browsers.html#the-history-interface", "feature": "History.prototype.replaceState", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.createSVGTransform", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBIndex.prototype.mozGetAll", "standard:": "Indexed Database API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onloadstart", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/editing/execCommand.html", "feature": "HTMLDocument.prototype.queryCommandSupported", "standard:": "execCommand"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.vertexAttrib3fv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webstorage.html", "feature": "window.localStorage", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webstorage.html", "feature": "window.sessionStorage", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTableElement.prototype.insertRow", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://drafts.csswg.org/css-font-loading/", "feature": "FontFaceSet.prototype.keys", "standard:": "CSS Font Loading Module Level 3"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLFormControlsCollection.prototype.item", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLMediaElement.prototype.mozGetMetadata", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onstalled", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSStyleSheet.prototype.insertRule", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.applicationCache", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.responseEnd", "standard:": "Navigation Timing"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathSegList.prototype.replaceItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-HTML/", "feature": "HTMLDocument.prototype.getElementsByName", "standard:": "Document Object Model (DOM) Level 2 HTML Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.fillText", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "OfflineResourceList.prototype.swapCache", "standard:": "HTML 5"}
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "ScreenOrientation.prototype.lock", "standard:": "The Screen Orientation API"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.setIdentityProvider", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrixReadOnly.prototype.flipY", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.putImageData", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLSelectElement.prototype.item", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.getPathSegAtLength", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onlanguagechange", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "SubtleCrypto.prototype.generateKey", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Events/", "feature": "EventTarget.prototype.addEventListener", "standard:": "Document Object Model (DOM) Level 2 Events Specification"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.error", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLTableElement.prototype.deleteCaption", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.profile", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGGraphicsElement.prototype.getCTM", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "http://w3c.github.io/selection-api/", "feature": "HTMLDocument.prototype.getSelection", "standard:": "Selection API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform4i", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.domainLookupStart", "standard:": "Navigation Timing"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onloadedmetadata", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onmouseover", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.screen", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.colorMask", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.pauseAnimations", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform1i", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/comms.html#network", "feature": "WebSocket.prototype.send", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.ononline", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.beginPath", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/geolocation-API/", "feature": "navigator.geolocation.clearWatch", "standard:": "Geolocation API Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/browsers.html#the-history-interface", "feature": "History.prototype.go", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "Document.prototype.elementFromPoint", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "DOMImplementation.prototype.createDocumentType", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLOptionsCollection.prototype.add", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBDatabase.prototype.mozCreateFileHandle", "standard:": "Indexed Database API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.close", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onmouseout", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.enableVertexAttribArray", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "SubtleCrypto.prototype.deriveBits", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGMarkerElement.prototype.setOrientToAngle", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransformList.prototype.getItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGMatrix.prototype.skewY", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/workers.html", "feature": "Worker.prototype.postMessage", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/selectors-api", "feature": "DocumentFragment.prototype.querySelectorAll", "standard:": "Selectors API Level 1"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.drawArrays", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.isBuffer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://fullscreen.spec.whatwg.org/", "feature": "window.onmozfullscreenchange", "standard:": "Fullscreen API"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.fetchStart", "standard:": "Navigation Timing"}
+{"url_standard:": "https://fullscreen.spec.whatwg.org/", "feature": "document.mozFullScreenEnabled", "standard:": "Fullscreen API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.getClientRects", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.isPointInRange", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "window.getComputedStyle", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.w3.org/TR/service-workers/", "feature": "CacheStorage.prototype.delete", "standard:": "Service Workers"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.outerHeight", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.scrollTo", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.bindTexture", "standard:": "WebGL Specification"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "Element.prototype.scrollIntoView", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "NamedNodeMap.prototype.getNamedItem", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGMatrix.prototype.flipX", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.translate", "standard:": "HTML"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.warn", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/selectors-api", "feature": "Document.prototype.querySelectorAll", "standard:": "Selectors API Level 1"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegCurvetoCubicSmoothAbs", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Events/", "feature": "Document.prototype.createEvent", "standard:": "Document Object Model (DOM) Level 2 Events Specification"}
+{"url_standard:": "https://w3c.github.io/hr-time/", "feature": "Performance.prototype.now", "standard:": "High Resolution Time Level 2"}
+{"url_standard:": "https://w3c.github.io/DOM-Parsing/", "feature": "DOMParser.prototype.parseFromString", "standard:": "DOM Parsing and Serialization"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getVertexAttribOffset", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGMatrix.prototype.flipY", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-HTML/", "feature": "document.forms", "standard:": "Document Object Model (DOM) Level 2 HTML Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransform.prototype.setRotate", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/comms.html#channel-messaging", "feature": "MessagePort.prototype.postMessage", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSStyleDeclaration.prototype.item", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://w3c.github.io/FileAPI/", "feature": "FileReader.prototype.readAsBinaryString", "standard:": "File API"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Text.prototype.splitText", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.timeStamp", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSPrimitiveValue.prototype.getRectValue", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.compressedTexSubImage2D", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegCurvetoCubicRel", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.depthRange", "standard:": "WebGL Specification"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrix.prototype.scale3dSelf", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.createTexture", "standard:": "WebGL Specification"}
+{"url_standard:": "https://xhr.spec.whatwg.org/", "feature": "FormData.prototype.getAll", "standard:": "XMLHttpRequest"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.ondragstart", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onreadystatechange", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/editing/execCommand.html", "feature": "document.queryCommandSupported", "standard:": "execCommand"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPointList.prototype.clear", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLInputElement.prototype.setSelectionRange", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGAnimationElement.prototype.endElement", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLMediaElement.prototype.canPlayType", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onpaste", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.disableVertexAttribArray", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasGradient.prototype.addColorStop", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.resetTransform", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "MediaQueryList.prototype.removeListener", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.getCurrentTime", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "NamedNodeMap.prototype.item", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onshow", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/uievents/", "feature": "CompositionEvent.prototype.initCompositionEvent", "standard:": "UI Events Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.stencilMask", "standard:": "WebGL Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.parent", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "document.doctype", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGLengthList.prototype.appendItem", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Style/", "feature": "CSSPrimitiveValue.prototype.setFloatValue", "standard:": "Document Object Model (DOM) Level 2 Style Specification"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBFileHandle.prototype.abort", "standard:": "Indexed Database API"}
+{"url_standard:": "https://w3c.github.io/FileAPI/", "feature": "FileReader.prototype.readAsArrayBuffer", "standard:": "File API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.uniform1iv", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/media-source/", "feature": "HTMLVideoElement.prototype.getVideoPlaybackQuality", "standard:": "Media Source Extensions"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBFactory.prototype.open", "standard:": "Indexed Database API"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Node.prototype.cloneNode", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Events/", "feature": "Event.prototype.preventDefault", "standard:": "Document Object Model (DOM) Level 2 Events Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.collapse", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGGraphicsElement.prototype.hasExtension", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-3-Core/", "feature": "Node.prototype.compareDocumentPosition", "standard:": "Document Object Model (DOM) Level 3 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.unpauseAnimations", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.insertNode", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "Document.prototype.caretPositionFromPoint", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.scroll", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.generateMipmap", "standard:": "WebGL Specification"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "Element.prototype.scroll", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "HTMLInputElement.prototype.select", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/WebCryptoAPI/", "feature": "SubtleCrypto.prototype.importKey", "standard:": "Web Cryptography API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTextContentElement.prototype.getComputedTextLength", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegCurvetoQuadraticRel", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/mediacapture-streams/", "feature": "MediaDevices.prototype.enumerateDevices", "standard:": "Media Capture and Streams"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegCurvetoQuadraticSmoothAbs", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.createContextualFragment", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getTexParameter", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/navigation-timing/", "feature": "performance.timing.domContentLoadedEventStart", "standard:": "Navigation Timing"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.fill", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.clearRect", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.oncut", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegLinetoRel", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/mediastream-recording/", "feature": "MediaStream.prototype.getAudioTracks", "standard:": "MediaStream Recording"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.save", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGSVGElement.prototype.deselectAll", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.lastModified", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/tracking-dnt/", "feature": "navigator.doNotTrack", "standard:": "Tracking Preference Expression (DNT)"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGNumberList.prototype.clear", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Node.prototype.appendChild", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://drafts.fxtf.org/geometry/", "feature": "DOMMatrix.prototype.scaleSelf", "standard:": "Geometry Interfaces Module Level 1"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "RTCStatsReport.prototype.forEach", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBFactory.prototype.deleteDatabase", "standard:": "Indexed Database API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element", "feature": "CanvasRenderingContext2D.prototype.createLinearGradient", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/IndexedDB/", "feature": "IDBObjectStore.prototype.mozGetAll", "standard:": "Indexed Database API"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webappapis.html#plugins-2", "feature": "navigator.plugins", "standard:": "HTML"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.createFramebuffer", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/REC-DOM-Level-1/", "feature": "Element.prototype.setAttributeNode", "standard:": "Document Object Model (DOM) Level 1 Specification"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.createDataChannel", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://url.spec.whatwg.org/", "feature": "URLSearchParams.prototype.get", "standard:": "URL"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.oncanplay", "standard:": "HTML"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.trace", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLOptionsCollection.prototype.remove", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ontimeupdate", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "HTMLInputElement.prototype.setCustomValidity", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org/multipage/webappapis.html#plugins-2", "feature": "Plugin.prototype.item", "standard:": "HTML"}
+{"url_standard:": "https://w3c.github.io/uievents/", "feature": "KeyboardEvent.prototype.getModifierState", "standard:": "UI Events Specification"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.info", "standard:": "Console API"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.attachShader", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/", "feature": "Range.prototype.detach", "standard:": "Document Object Model (DOM) Level 2 Traversal and Range Specification"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onmouseleave", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onreset", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.prompt", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTextContentElement.prototype.getCharNumAtPosition", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "window.scrollbars", "standard:": "HTML 5"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onplaying", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGStringList.prototype.insertItemBefore", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.getReceivers", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "HTMLIFrameElement.prototype.getSVGDocument", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.getConfiguration", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://github.com/DeveloperToolsWG/console-object", "feature": "Console.prototype.count", "standard:": "Console API"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGTransform.prototype.setMatrix", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.updateIce", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/DOM-Level-2-Core/", "feature": "Document.prototype.createDocumentFragment", "standard:": "Document Object Model (DOM) Level 2 Core Specification"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGAnimationElement.prototype.beginElementAt", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.matchMedia", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onsuspend", "standard:": "HTML"}
+{"url_standard:": "https://drafts.csswg.org/cssom/", "feature": "MediaList.prototype.item", "standard:": "CSS Object Model (CSSOM)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.getUniformLocation", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.drawElements", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/shadow-dom/", "feature": "HTMLContentElement.prototype.getDistributedNodes", "standard:": "Shadow DOM"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.ondragend", "standard:": "HTML"}
+{"url_standard:": "https://www.w3.org/TR/SVG/", "feature": "SVGPathElement.prototype.createSVGPathSegCurvetoCubicAbs", "standard:": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"}
+{"url_standard:": "https://www.khronos.org/registry/webgl/specs/latest/1.0/", "feature": "WebGLRenderingContext.prototype.linkProgram", "standard:": "WebGL Specification"}
+{"url_standard:": "https://www.w3.org/TR/selectors-api", "feature": "DocumentFragment.prototype.querySelector", "standard:": "Selectors API Level 1"}
+{"url_standard:": "https://www.w3.org/TR/geolocation-API/", "feature": "navigator.geolocation", "standard:": "Geolocation API Specification"}
