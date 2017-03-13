@@ -1,0 +1,58 @@
+feature che rimanda a un altra feature gia controllata
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.pageXOffset", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.scrollBy", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.pageYOffset", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "window.scroll", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "screen.left", "standard:": "CSSOM View Module"}
+
+
+
+
+
+
+impossibile trovare file:
+{"url_standard:": "https://drafts.csswg.org/cssom-view/", "feature": "CaretPosition.prototype.getClientRect", "standard:": "CSSOM View Module"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "document.onbeforescriptexecute", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/html5/", "feature": "document.onafterscriptexecute", "standard:": "HTML 5"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.getConfiguration", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "screen.mozOrientation", "standard:": "The Screen Orientation API"}
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "screen.onmozorientationchange", "standard:": "The Screen Orientation API"}
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "screen.orientation", "standard:": "The Screen Orientation API"
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.getIdentityAssertion", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+{"url_standard:": "https://www.w3.org/TR/webrtc/", "feature": "mozRTCPeerConnection.prototype.setIdentityProvider", "standard:": "WebRTC 1.0: Real-time Communication Between Browser"}
+
+
+
+
+Event attribute not proper function or attribute getter setter
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "window.ondevicemotion", "standard:": "The Screen Orientation API"}
+{"url_standard:": "https://w3c.github.io/screen-orientation/", "feature": "window.ondeviceorientation", "standard:": "The Screen Orientation API"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onsuspend", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.ondragend", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onmouseleave", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onreset", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onplaying", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ontimeupdate", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.oncut", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.oncanplay", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onpaste", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onshow", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.ondragstart", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.oninvalid", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ondragover", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onchange", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onmousedown", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onloadstart", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onmouseout", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onselect", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.ondragleave", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onmouseup", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onshow", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onwheel", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ondragend", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.onwheel", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.ondurationchange", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onemptied", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "window.oncontextmenu", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.oncanplaythrough", "standard:": "HTML"}
+{"url_standard:": "https://html.spec.whatwg.org", "feature": "document.onkeypress", "standard:": "HTML"}
